@@ -1,0 +1,101 @@
+OrderID,Product,Quantity,UnitPrice,OrderDate,Region,Note
+1001,Monitor,3.0,173.89,2026-04-01,South,
+1002,Webcam,4.0,1233.57,2026-04-08,Central,
+1003,USB-C Cable,3.0,261.74,2026-03-23,West,
+1004,USB-C Cable,6.0,820.79,2026-03-31,North,Urgent
+1005,Monitor,5.0,299.7,2026-04-15,Central,Gift wrap
+1006,Monitor,3.0,85.56,2026-04-02,East,Urgent
+1007,Headset,9.0,18.35,2026-04-10,Central,
+1008,Webcam,3.0,840.83,2026-04-03,East,
+1009,USB-C Cable,7.0,1072.59,2026-04-14,Central,
+1010,Monitor,4.0,22.58,2026-03-30,West,
+1011,Mouse,5.0,185.99,2026-03-30,South,Standard
+1012,USB-C Cable,6.0,1158.7,2026-03-24,East,Standard
+1013,USB-C Cable,2.0,747.4,2026-03-29,North,
+1014,Headset,9.0,1378.89,2026-04-04,East,
+1015,Mouse,9.0,,2026-03-21,North,Urgent
+1016,Webcam,4.0,1315.43,2026-03-27,North,Gift wrap
+1017,Mouse,4.0,111.05,2026-03-27,Central,Urgent
+1018,Headset,9.0,74.71,2026-04-17,Central,Urgent
+1019,USB-C Cable,8.0,1015.89,2026-04-01,East,
+1020,Headset,8.0,531.36,2026-03-25,Central,Urgent
+1021,Laptop,,1047.5,2026-03-31,North,Standard
+1022,USB-C Cable,7.0,1421.68,2026-03-23,West,
+1023,Mouse,8.0,234.51,2026-04-06,Central,
+1024,Mouse,6.0,548.11,2026-04-01,North,
+1025,Monitor,8.0,1376.77,2026-04-17,West,
+1026,Mouse,1.0,440.64,2026-03-23,East,Gift wrap
+1027,Monitor,3.0,1321.55,2026-03-23,West,
+1028,Laptop,5.0,103.32,2026-03-29,North,
+1029,Laptop,4.0,425.44,2026-04-12,South,Standard
+1030,Webcam,2.0,1033.25,2026-04-10,West,
+1031,Mouse,1.0,983.85,2026-03-19,East,Urgent
+1032,Webcam,9.0,1042.68,2026-03-22,West,Standard
+1033,Mouse,,1172.57,2026-03-31,East,Standard
+1034,Webcam,6.0,1419.56,2026-03-21,Central,Standard
+1035,Headset,5.0,621.11,2026-04-07,East,Urgent
+1036,USB-C Cable,8.0,308.75,2026-04-15,Central,Standard
+1037,Headset,6.0,545.52,2026-04-12,East,Urgent
+1038,Keyboard,8.0,1073.09,2026-03-31,Central,Standard
+1039,USB-C Cable,7.0,405.36,2026-04-16,West,
+1040,Keyboard,6.0,1096.12,2026-04-07,South,
+1041,Keyboard,9.0,241.08,2026-04-17,East,Urgent
+1042,Headset,7.0,944.15,2026-04-09,North,Standard
+1043,Headset,4.0,403.37,2026-04-11,West,Standard
+1044,Monitor,8.0,1265.37,2026-04-04,West,Standard
+1045,Headset,8.0,,2026-04-08,North,Standard
+1046,Webcam,3.0,249.39,2026-04-08,East,Standard
+1047,USB-C Cable,7.0,189.41,2026-03-23,South,
+1048,Laptop,1.0,80.69,2026-03-28,East,
+1049,Monitor,,444.69,2026-04-09,West,Standard
+1050,Webcam,1.0,1162.04,2026-04-17,South,Gift wrap
+1051,Laptop,8.0,1487.3,2026-03-30,West,Standard
+1052,USB-C Cable,9.0,1418.39,2026-04-11,Central,Urgent
+1053,Headset,6.0,445.25,2026-03-19,East,Gift wrap
+1054,Laptop,,226.85,2026-03-20,South,Standard
+1055,Mouse,7.0,1237.11,2026-04-14,South,Gift wrap
+1056,Mouse,9.0,1384.8,2026-03-19,East,
+1057,Monitor,1.0,1456.58,2026-04-05,West,Urgent
+1058,Laptop,5.0,1438.33,2026-03-21,Central,Standard
+1059,Headset,2.0,720.18,2026-03-20,Central,Gift wrap
+1060,Laptop,1.0,862.55,2026-04-10,Central,
+1061,Webcam,6.0,1461.94,2026-03-28,East,
+1062,Headset,5.0,507.6,2026-04-17,Central,Urgent
+1063,Mouse,1.0,389.29,2026-04-13,Central,
+1064,Mouse,7.0,,2026-04-09,East,
+1065,Mouse,7.0,251.11,2026-03-28,Central,Standard
+1066,Laptop,2.0,872.11,2026-04-09,West,
+1067,Mouse,4.0,488.38,2026-04-15,North,Standard
+1068,Mouse,1.0,1103.92,2026-03-27,West,
+1069,Headset,9.0,287.26,2026-03-26,West,
+1070,Headset,3.0,220.56,2026-04-13,East,
+1071,Headset,2.0,207.58,2026-04-07,North,Standard
+1072,Headset,2.0,1377.97,2026-03-25,West,Standard
+1073,Headset,3.0,1235.46,2026-04-17,East,Gift wrap
+1074,USB-C Cable,3.0,1404.93,2026-04-17,Central,
+1075,Mouse,7.0,1096.89,2026-04-07,South,
+1076,Monitor,8.0,523.68,2026-04-03,East,
+1077,USB-C Cable,4.0,1457.58,2026-03-22,South,
+1078,Mouse,3.0,399.33,2026-04-04,North,
+1079,Headset,4.0,1074.52,2026-04-11,South,Standard
+1080,Mouse,9.0,1074.94,2026-04-05,South,
+1081,Headset,5.0,1256.67,2026-04-17,East,
+1082,Laptop,2.0,1287.21,2026-04-11,North,
+1083,Headset,1.0,,2026-03-30,South,
+1084,Laptop,5.0,937.94,2026-03-28,South,Standard
+1085,Laptop,6.0,842.79,2026-04-17,South,
+1086,Mouse,1.0,,2026-04-14,East,
+1087,Monitor,7.0,1312.97,2026-03-21,South,Urgent
+1088,USB-C Cable,6.0,1342.59,2026-03-26,North,Gift wrap
+1089,Mouse,4.0,977.9,2026-04-01,East,
+1090,Laptop,1.0,73.96,2026-04-04,East,Standard
+1091,Keyboard,1.0,429.62,2026-04-16,East,
+1092,Mouse,2.0,678.87,2026-03-19,West,
+1093,Mouse,3.0,326.12,2026-03-29,North,Urgent
+1094,Webcam,9.0,1360.61,2026-04-03,North,
+1095,Keyboard,2.0,735.56,2026-03-25,North,
+1096,Headset,1.0,471.43,2026-03-28,South,
+1097,Laptop,8.0,923.9,2026-03-27,South,Standard
+1098,Mouse,7.0,1136.48,2026-04-14,Central,
+1099,Mouse,4.0,1236.91,2026-04-05,South,
+1100,Webcam,,1126.32,2026-03-25,West,
